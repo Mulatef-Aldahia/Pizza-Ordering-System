@@ -209,6 +209,18 @@ cd Pizza-Ordering-System
 
 ---
 
+## 📚 مصدر التعلم | Learning Source
+
+تم تطوير هذا المشروع كجزء من **الممارسة العملية والتطبيق** ضمن:
+
+> **خارطة طريق البرمجة** للدكتور **محمد أبو هدهود** — **الكورس رقم 14**
+>
+> *Dr. Mohammad Abu Houdoud — Programming Roadmap, Course #14*
+
+هذا المشروع هو تطبيق لما تم تعلمه خلال الكورس لبناء تطبيقات سطح مكتب تفاعلية باستخدام **C# Windows Forms**.
+
+---
+
 ## 🤝 المساهمة | Contributing
 
 1. Fork المستودع
@@ -225,7 +237,7 @@ cd Pizza-Ordering-System
 
 ---
 
-## 👨💻 المطور | Developer
+## 👨‍💻 المطور | Developer
 
 **ملاطف الداهية — Mulatef Aldahia**
 
