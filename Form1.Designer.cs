@@ -113,7 +113,7 @@
             this.rbSamll.TabIndex = 2;
             this.rbSamll.TabStop = true;
             this.rbSamll.Tag = "20";
-            this.rbSamll.Text = "Samll";
+            this.rbSamll.Text = "Small";
             this.rbSamll.UseVisualStyleBackColor = true;
             this.rbSamll.CheckedChanged += new System.EventHandler(this.rbSamll_CheckedChanged);
             // 
@@ -234,10 +234,10 @@
             this.chkExtraChees.AutoSize = true;
             this.chkExtraChees.Location = new System.Drawing.Point(11, 27);
             this.chkExtraChees.Name = "chkExtraChees";
-            this.chkExtraChees.Size = new System.Drawing.Size(85, 17);
+            this.chkExtraChees.Size = new System.Drawing.Size(91, 17);
             this.chkExtraChees.TabIndex = 12;
             this.chkExtraChees.Tag = "5";
-            this.chkExtraChees.Text = "Extra Chees";
+            this.chkExtraChees.Text = "Extra Cheese";
             this.chkExtraChees.UseVisualStyleBackColor = true;
             this.chkExtraChees.CheckedChanged += new System.EventHandler(this.chkExtraChees_CheckedChanged);
             // 
